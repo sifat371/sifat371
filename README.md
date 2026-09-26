@@ -1,8 +1,8 @@
 # Md Sifat
 
-## AI Engineer | Machine Learning
+I build **AI systems for brain, health, and human-centered computing** — spanning lightweight EEG decoding, medical imaging, speech AI, and real-world ML products.
 
-Building machine learning systems with a focus on real-world applications.
+Currently focused on **neurotechnology, medical AI, and efficient machine learning**, with an emphasis on reproducible research and usable software.
 
 ---
 
